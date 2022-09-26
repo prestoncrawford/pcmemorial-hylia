@@ -1,12 +1,16 @@
 ---
 layout: home
 title: A simple starter kit for Eleventy
+metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
+  own blog or personal website.
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: ""
 ---
+![Patrick Crawford at Boise State game](/images/patricksmiling.webp)
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+Patrick Crawford was a beloved son, brother and friend to all. He was born and raised in Wendell, Idaho and was a 1999 Graduate of Wendell High School where he played varsity football and basketball, earning All-Conference honors. He went on to graduate from University of Phoenix with an AA in Information Technology. He later returned to Wendell and coached the Bliss varsity basketball team. He moved to Beaverton, Oregon, in 2013 and landed a job as a Manufacturing Technician with the microchip giant Intel Corporation and kept his passion and commitment to sports until his untimely passing. 
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+What most people don’t know about Patrick is how much he struggled to afford his college degree in his early years. That degree ultimately helped him build a rewarding and impactful career with Intel. 
+
+Sadly, Patrick passed away in October 2021. To honor his spirit and legacy, the **Patrick Crawford Memorial Scholarship** will support students pursuing a college education with an annual scholarship of $1500 to be awarded to one student each year from Wendell High School that wants to pursue a college or alternative advanced education.
