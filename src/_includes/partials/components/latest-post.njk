@@ -1,0 +1,9 @@
+{% set postListItemsLatest = collections.postFeed %}
+
+{% if postListItemsLatest.length %}
+  {% for item in postListItemsLatest.slice(0, 1) %}
+      {% set introSummary %}
+        {{ item.data.content | safe }}
+      {% endset %}
+  {% endfor %}
+{% endif %}

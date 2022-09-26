@@ -1,10 +1,14 @@
 {% extends 'layouts/base.njk' %}
 
-{# Intro content #}
-{% set introHeading = title %}
+
 {% set introSummary %}
   {{ content | safe }}
 {% endset %}
+
+{% include "partials/components/latest-post.njk" %}
+
+{# Intro content #}
+{% set introHeading = title %}
 
 {# Post list content #}
 {% set postListHeading = postsHeading %}

@@ -1,10 +1,9 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
-  own blog or personal website.
-postsHeading: Latest posts
-archiveButtonText: See all posts
+title: Patrick Crawford Memorial
+metaDesc: Patrick Crawford Memorial website. Latest news on the scholarship and rememberances. 
+postsHeading: Latest news
+archiveButtonText: See all news
 socialImage: ""
 ---
 ![Patrick Crawford at Boise State game](/images/patricksmiling.webp)

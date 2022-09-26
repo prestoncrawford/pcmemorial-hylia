@@ -2,10 +2,10 @@
 layout: 'layouts/news.njk'
 title: 'News'
 permalink: '/news/index.html'
-postsHeading: Latest posts
-archiveButtonText: See all posts
-metaDesc: 'Latest News'
+postsHeading: Recent news
+archiveButtonText: See all news
+metaDesc: 'Recent News'
 socialImage: ''
 ---
 
-News
+Return here for the latest updates
