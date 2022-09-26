@@ -6,14 +6,19 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andy-piccalilli/hylia",
+      "text": "News",
+      "url": "/news",
+      "external": false
+    },
+    {
+      "text": "In Memoriam",
+      "url": "https://www.youtube.com/watch?v=uKFIxMhqAHU",
       "external": true
     },
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
+      "text": "Donate",
+      "url": "https://www.gofundme.com/f/patrick-crawford-memorial-scholarship",
+      "external": true
     }
   ]
 }
